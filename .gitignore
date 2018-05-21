@@ -1,0 +1,29 @@
+*.class
+
+#package file
+*.war
+*.ear
+*.orig
+
+.classpath
+.settings/
+.project
+target
+
+#temp file
+*.log
+*.cache
+*.diff
+*.path
+*.temp
+
+#system ignore
+.DS_Store
+
+
+#idea
+.idea/
+/idea/
+*.iml
+*.ipr
+*.iws
